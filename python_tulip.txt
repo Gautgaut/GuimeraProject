@@ -1,0 +1,3 @@
+with open(r'C:\Users\Glais\Desktop\guimera\tests\testgui.dat', 'w') as fout:
+	for e in graph.getEdges():
+		fout.write(str(graph.source(e).id) +' '+str(graph.target(e).id)+'\n')
