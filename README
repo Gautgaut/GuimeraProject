@@ -1,9 +1,9 @@
-# GuimeraProject
+#GuimeraProject
 
 GuimeraProject is a python wrapper to Roger Guimera's code implementing
 various algorithms to detect missing and/or spurious links in a network.
 
-## Usign the GuimeraProject wrapper
+##Usign the GuimeraProject wrapper
 
 You first need to have Guimera's code installed and compiled.
 The code is available at http://seeslab.info/downloads/ (netcarto and other packages).
