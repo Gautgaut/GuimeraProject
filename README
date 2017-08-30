@@ -7,3 +7,5 @@ various algorithms to detect missing and/or spurious links in a network.
 
 You first need to have Guimera's code installed and compiled.
 The code is available at http://seeslab.info/downloads/ (netcarto and other packages).
+
+The compilation instructions can be found as part of the netcarto package.
